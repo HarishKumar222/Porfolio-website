@@ -147,4 +147,8 @@ ul li:hover {
         margin: 0.5rem 0;
     }
 }
+.textcolor{
+    text-decoration:none;
+    color:black;
+}
 
